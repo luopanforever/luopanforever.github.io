@@ -4,6 +4,50 @@
   
   
   <entry>
+    <title>hellotest</title>
+    <link href="/2023/07/21/hellotest/"/>
+    <url>/2023/07/21/hellotest/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>tedt</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>test</title>
+    <link href="/2023/07/21/test/"/>
+    <url>/2023/07/21/test/</url>
+    
+    <content type="html"><![CDATA[<p>诶点进去外汇二期开发年代为符号表</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>c++</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>test-tag</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/07/21/hello-world/"/>
     <url>/2023/07/21/hello-world/</url>
